@@ -44,9 +44,6 @@ FirebaseMessaging<br>
 FirebaseFirestoreSwift<br>
 FirebaseAppCheck<br>
 
-# デザインパターン
-MVCモデルを使用
-
 # インストール
 <a href="https://apps.apple.com/us/app/chanpla/id1635696162?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/ja-jp?size=250x83&amp;releaseDate=1659312000&h=c2ccaa3ca47b1c88aba377b97e69d13b" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 
