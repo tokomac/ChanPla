@@ -11,6 +11,13 @@ Youtubeのチャンネル、動画を登録できます。<br>
 # 開発フロー
 個人開発
 
+# Udemy
+この講座で勉強しました。
+| 講師 | 講座 |
+| --- | --- |
+| David Kababyan | iOS 14 & Swift Chat Application Like Whatsapp Viber Telegram |
+| BoxCom,inc Yuta Fujii |【iOS13対応】未経験者がiPhoneアプリ開発者になるための全て iOS Boot Camp |
+
 # 開発情報
 | 項目 | バージョン |
 | --- | --- |
@@ -46,9 +53,3 @@ MVCモデルを使用
 # 開発者
 tokomatokomac@gmail.com<br>
 https://tokomac.hatenablog.com/entry/ChanPla-release
-
-# Udemy
-| 講師 | 講座 |
-| --- | --- |
-| David Kababyan | iOS 14 & Swift Chat Application Like Whatsapp Viber Telegram |
-| BoxCom,inc Yuta Fujii |【iOS13対応】未経験者がiPhoneアプリ開発者になるための全て iOS Boot Camp |
