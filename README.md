@@ -1,34 +1,34 @@
-# プロジェクト名
+# Project Name
 ChanPla
 
-# 概要
-使用するには、ユーザー登録をします。<br>
-登録したユーザーでログインしこのアプリを使用開始します。<br>
-Youtubeのチャンネル、動画を登録できます。<br>
-お気に入り共有を有効にすれば、他のユーザーとお気に入り共有できます。<br>
-お気に入り共有した他のユーザーとチャットができます。<br>
+# summary
+To use the application, register as a user.<br>
+Log in as the registered user to start using this application.<br>
+You can register Youtube channels and videos.<br>
+You can share your favorites with other users by enabling favorite sharing.<br>
+You can chat with other users who have shared your favorites.<br>
 
-# 開発フロー
-個人開発
+# Development Flow
+personal development
 
 # Udemy
-この講座で勉強しました。
-| 講師 | 講座 |
+I studied in this course.
+| Instructor | Lecture |
 | --- | --- |
 | David Kababyan | iOS 14 & Swift Chat Application Like Whatsapp Viber Telegram |
 | BoxCom,inc Yuta Fujii |【iOS13対応】未経験者がiPhoneアプリ開発者になるための全て iOS Boot Camp |
 
-# 開発情報
-| 項目 | バージョン |
+# Development Information
+| item | version |
 | --- | --- |
 | Xcode | 14.2 |
-| フレームワーク | UIKit |
+| framework | UIKit |
 | Swift | 5 |
-| iOS | 15.0以上 |
-| デバイス | iPhone |
+| iOS | 15.0+ |
+| device | iPhone |
 | CocoaPods | 1.11.3 |
 
-# 使用ライブラリ
+# Libraries used
 SDWebImage<br>
 LicensePlist<br>
 ProgressHUD<br>
@@ -44,9 +44,9 @@ FirebaseMessaging<br>
 FirebaseFirestoreSwift<br>
 FirebaseAppCheck<br>
 
-# インストール
+# install
 <a href="https://apps.apple.com/us/app/chanpla/id1635696162?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/ja-jp?size=250x83&amp;releaseDate=1659312000&h=c2ccaa3ca47b1c88aba377b97e69d13b" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 
-# 開発者
+# developer
 tokomatokomac@gmail.com<br>
 https://tokomac.hatenablog.com/entry/ChanPla-release
