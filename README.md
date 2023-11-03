@@ -21,12 +21,12 @@ I studied in this course.
 # Development Information
 | item | version |
 | --- | --- |
-| Xcode | 14.2 |
+| Xcode | 15.0.1 |
 | framework | UIKit |
 | Swift | 5 |
 | iOS | 15.0+ |
 | device | iPhone |
-| CocoaPods | 1.11.3 |
+| CocoaPods | 1.13.0 |
 
 # Libraries used
 SDWebImage<br>
